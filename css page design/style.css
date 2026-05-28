@@ -1,0 +1,16 @@
+body{
+	background-image:url("apj.webp");
+	background-attachment:fixed;
+	background-size:cover;
+	background-repeat:no-repeat;
+	margin-top:50px;
+}
+.one{
+	color:white;
+}
+.two{
+	color:red;
+}
+h3{
+	color:blue;
+}
