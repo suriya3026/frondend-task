@@ -1,0 +1,92 @@
+body{
+	margin:0;
+	background-color:white;
+}
+.main{
+	padding:5px;
+	margin: 2px;
+	background-color:white;
+	display:flex;
+	box-shadow: 1px 2px 2px gray;
+	
+}
+.sub3{
+	display:flex;
+	border-radius:10px;
+}
+
+ul{
+	margin-left:60px;
+}
+li{
+	display:inline-block;
+	margin-left:60px;
+	list-style:none;
+	margin-top:30px;
+	text-transform:capitalize;
+}
+a{
+	text-decoration:none;
+	color:black;
+	font-size:20px;
+}
+h1{
+	display:flex;
+	margin-left:80px;
+	text-transform:uppercase;
+	color:orange;
+}
+.sub{
+	margin-top:50px;
+	text-transform:capitalize;
+	text-align:center;
+	margin-left:220px;
+	margin-right:200px;
+	padding-top:15px;
+	padding-bottom:15px;
+	border-radius:30px;
+	background-color:rgb(280,235,210);
+}
+.one{
+	margin-left:80px;
+}
+.two{
+	margin-left:80px;
+}
+.three{
+	margin-left:95px;
+}
+.four{
+	margin-left:103px;
+}
+.five{
+	margin-left:120px;
+}
+.six{
+	margin-left:113px;
+}
+.sub1{
+	text-align:center;
+	margin-top:50px;
+	text-transform:uppercase;
+}
+span{
+	color:orange;
+}
+.seven{
+	margin-left:15px;
+	border-radius:20px;
+}
+.sub2{
+	text-align:center;
+	margin-top:50px;
+	text-transform:uppercase;
+}
+.sub4{
+    text-align:center;
+	margin:50px;
+	text-transform:uppercase;	
+}
+.eight{
+	margin-top:50px;
+}
