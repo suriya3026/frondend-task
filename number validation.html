@@ -1,0 +1,26 @@
+<html>
+
+<body>
+	<form name="forms" onsubmit="return validate()">
+		Number: <input type="text" name="name1"> <br>
+		<input type="submit"> 
+	</form>
+	<script>
+	
+	function validate()
+	{
+		var num=document.forms.name1.value;
+	if(isNaN(num))
+		{
+			alert("enter numeric value only");
+			return false;
+		}
+		else 
+		{
+			return true;
+		}
+	}
+			
+	</script>
+</body>
+</html>
